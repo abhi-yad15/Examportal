@@ -1,7 +1,7 @@
 <?php
 	$dbhost = 'localhost';
-   $dbuser = 'intellifyiitd16';
-   $dbpass = 'intellify2016';
+   $dbuser = '';
+   $dbpass = '';
    $db='intellify';
    $error="";
    $conn = mysqli_connect($dbhost, $dbuser, $dbpass,$db);
